@@ -1,4 +1,4 @@
-20204419537892800
+20216347798551220
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -1546,6 +1546,13 @@ SPST Tactile Switch
 0
 4
 2
+Button_Switch_THT
+KLS7_P8X8
+KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
+SWITCH SMD KSA SW
+0
+6
+6
 Button_Switch_THT
 KSA_Tactile_SPST
 KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
@@ -7853,6 +7860,13 @@ THT Mini XLR 5Pin right angle
 0
 5
 5
+Connector_Audio
+RCA-105
+Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf
+barrel jack cui dc power
+0
+3
+3
 Connector_Audio
 RF-MOD
 
@@ -53375,6 +53389,20 @@ inductor TDK VLP smd VLP8040
 2
 2
 Inductor_SMD
+L_TDK_VLS5040
+Inductor,TDK, TDK-VLP-8040, 8.6mmx8.6mm
+inductor TDK VLP smd VLP8040
+0
+2
+2
+Inductor_SMD
+L_TDK_VLS6040
+Inductor,TDK, TDK-VLP-8040, 8.6mmx8.6mm
+inductor TDK VLP smd VLP8040
+0
+2
+2
+Inductor_SMD
 L_Taiyo-Yuden_MD-1616
 Inductor, Taiyo Yuden, MD series, Taiyo-Yuden_MD-1616, 1.6mmx1.6mm
 inductor taiyo-yuden md smd
@@ -76328,6 +76356,13 @@ Relay RAYEX L90S SPDT
 5
 5
 Relay_THT
+Relay_SPDT_RY211xxx
+Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf
+Relay SPDT Omron Serie G5Q
+0
+5
+5
+Relay_THT
 Relay_SPDT_SANYOU_SRD_Series_Form_C
 relay Sanyou SRD series Form C http://www.sanyourelay.ca/public/products/pdf/SRD.pdf
 relay Sanyu SRD form C
@@ -76380,6 +76415,13 @@ Relay_THT
 Relay_SPDT_StandexMeder_SIL_Form1C
 Standex-Meder SIL-relais, Form 1C, see https://standexelectronics.com/wp-content/uploads/datasheet_reed_relay_SIL.pdf
 Standex Meder SIL reed relais
+0
+5
+5
+Relay_THT
+Relay_SPDT_TBO-TRA1_Z
+Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5q.pdf
+Relay SPDT Omron Serie G5Q
 0
 5
 5
@@ -78119,6 +78161,13 @@ sensirion dfn nolead
 0
 10
 9
+Sensor_Humidity
+aht20_28_30_1
+Sensirion DFN-8 SHT3x-DIS (https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Datasheets/Sensirion_Humidity_Sensors_SHT3x_Datasheet_digital.pdf)
+sensirion dfn nolead
+0
+6
+6
 Sensor_Motion
 InvenSense_QFN-24_3x3mm_P0.4mm
 24-Lead Plastic QFN (3mm x 3mm); Pitch 0.4mm; EP 1.7x1.54mm; for InvenSense motion sensors; keepout area marked (Package see: https://store.invensense.com/datasheets/invensense/MPU9250REV1.0.pdf; See also https://www.invensense.com/wp-content/uploads/2015/02/InvenSense-MEMS-Handling.pdf)
